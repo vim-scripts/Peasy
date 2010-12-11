@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3360
+
+You can choose to run python code by using 'v' from inside the current buffer. And you can check your while programming in python. You can evaluate expressions/statements easily.
